@@ -1,0 +1,15 @@
+C:\Users\vorte\source\repos\OOPLaba3\OOPLaba3\bin\Debug\OOPLaba3.exe.config
+C:\Users\vorte\source\repos\OOPLaba3\OOPLaba3\bin\Debug\OOPLaba3.exe
+C:\Users\vorte\source\repos\OOPLaba3\OOPLaba3\bin\Debug\OOPLaba3.pdb
+C:\Users\vorte\source\repos\OOPLaba3\OOPLaba3\obj\Debug\OOPLaba3_1.csproj.AssemblyReference.cache
+C:\Users\vorte\source\repos\OOPLaba3\OOPLaba3\obj\Debug\OOPLaba3_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\vorte\source\repos\OOPLaba3\OOPLaba3\obj\Debug\OOPLaba3_1.csproj.CoreCompileInputs.cache
+C:\Users\vorte\source\repos\OOPLaba3\OOPLaba3\obj\Debug\OOPLaba3.exe
+C:\Users\vorte\source\repos\OOPLaba3\OOPLaba3\obj\Debug\OOPLaba3.pdb
+D:\Бекуп\Лаби\repos\OOPLaba3\OOPLaba3\bin\Debug\OOPLaba3.exe.config
+D:\Бекуп\Лаби\repos\OOPLaba3\OOPLaba3\bin\Debug\OOPLaba3.exe
+D:\Бекуп\Лаби\repos\OOPLaba3\OOPLaba3\bin\Debug\OOPLaba3.pdb
+D:\Бекуп\Лаби\repos\OOPLaba3\OOPLaba3\obj\Debug\OOPLaba3_1.csproj.AssemblyReference.cache
+D:\Бекуп\Лаби\repos\OOPLaba3\OOPLaba3\obj\Debug\OOPLaba3_1.csproj.CoreCompileInputs.cache
+D:\Бекуп\Лаби\repos\OOPLaba3\OOPLaba3\obj\Debug\OOPLaba3.exe
+D:\Бекуп\Лаби\repos\OOPLaba3\OOPLaba3\obj\Debug\OOPLaba3.pdb
